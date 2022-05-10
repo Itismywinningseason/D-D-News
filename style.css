@@ -1,0 +1,46 @@
+#navbar {
+  background: teal;
+  color: white;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+#navbar #siteName {
+  font-family: "Lobster", cursive;
+  font-size: 24px;
+}
+
+#linksBar {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid lightgray;
+}
+#linksBar span {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+#linksBar #active {
+  padding-bottom: 8px;
+  border-bottom: 3px solid turquoise;
+  font-weight: 700;
+}
+
+#leftCol {
+  border-right: 1px solid gray;
+}
+
+#rightCol {
+  border-left: 1px solid gray;
+}
+
+.fullWidth {
+  width: 100%;
+}
+h4 {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
